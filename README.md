@@ -2,7 +2,7 @@
 
 A cross-platform social media mobile app built with Flutter and Firebase, designed for connecting, sharing, and engaging with a vibrant online community.
 
-![KitKatSocialApp Logo](../assets/logo/KitKatLogo.png)
+![KitKatSocialApp Logo](kitkat_social_app/assets/logo/KitKatLogo.png)
 
 ---
 
